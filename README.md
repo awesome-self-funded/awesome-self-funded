@@ -14,3 +14,6 @@ Awesome products that have significant annual revenue (AR) of 7-figures & more (
 - [Shopify](https://www.shopify.com/) - online shopping cart ($14M before rasing series A in 2010)
 - [SurveyMonkey](https://www.surveymonkey.com/) - online surveys ($50M ARR before raising funds in 2010)
 - [Zoho](https://www.zoho.com/) - Cloud/SaaS software suite ($500M ARR)
+
+## Contributing
+Feel free to add your company. Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
