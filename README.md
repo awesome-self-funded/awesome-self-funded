@@ -8,6 +8,7 @@ Awesome products that have significant annual revenue (AR) of 7-figures or close
 - [Balsamiq](https://balsamiq.com/) - UI mockup software ($10M ARR)
 - [CoderPad](https://coderpad.io/) - interviewing programmers remotely ($4M ARR)
 - [DNSimple](https://dnsimple.com/) - domain management API ($2M ARR)
+- [EverHour](https://everhour.com/) - employee time tracking ($1.4M ARR)
 - [Fomo](https://www.usefomo.com/) - marketing widget showing social proof ($1MARR)
 - [Grasshopper](http://grasshopper.com/) - virtual VoIP for entrepreneurs ($25M ARR)
 - [Hubstaff](https://hubstaff.com/) - employee time tracking ($2.5M ARR)
@@ -24,6 +25,8 @@ Awesome products that have significant annual revenue (AR) of 7-figures or close
 - [SendPulse](https://sendpulse.com/) - email + messenger marketing ($2.5M ARR)
 - [YouCanBookMe](https://youcanbook.me/) - meeting scheduling ($2M ARR)
 - [Zoho](https://www.zoho.com/) - Cloud/SaaS software suite ($500M ARR)
+
+Sources: Indiehackers, founder interviews, podcasts, folks I know personally from conferences etc.
 
 PS. While compiling this list I found many, many companies who used to be self-funded and very profitable, eventually decided to raise a round. SurveyMonkey, GitHub, Braintree, Shopify - all had tens of millions in revenue when eventually took the VC road.
 
