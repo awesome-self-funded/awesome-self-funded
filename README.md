@@ -22,7 +22,7 @@ Awesome products that have significant annual revenue (AR) of 7-figures & more:
 - [SendPulse](https://sendpulse.com/) - email + messenger marketing ($2.5M ARR)
 - [Zoho](https://www.zoho.com/) - Cloud/SaaS software suite ($500M ARR)
 
-While compiling this list I found many, many companies who used to be self-funded and very profitable, eventually decided to raise a round. SurveyMonkey, GitHub, Braintree, Shopify - all had tens of millions in revenue when eventually took the VC road.
+PS. While compiling this list I found many, many companies who used to be self-funded and very profitable, eventually decided to raise a round. SurveyMonkey, GitHub, Braintree, Shopify - all had tens of millions in revenue when eventually took the VC road.
 
 ## Contributing
 Feel free to add your company. Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
