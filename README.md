@@ -9,6 +9,7 @@ Awesome products that have significant annual revenue (AR) of 7-figures or close
 - [CoderPad](https://coderpad.io/) - interviewing programmers remotely ($4M ARR)
 - [DNSimple](https://dnsimple.com/) - domain management API ($2M ARR)
 - [EverHour](https://everhour.com/) - employee time tracking ($1.4M ARR)
+- [Floify](https://floify.com/) - SaaS for mortgage businesses ($7M ARR)
 - [Fomo](https://www.usefomo.com/) - marketing widget showing social proof ($1M ARR)
 - [Grasshopper](http://grasshopper.com/) - virtual VoIP for entrepreneurs ($25M ARR)
 - [Hubstaff](https://hubstaff.com/) - employee time tracking ($2.5M ARR)
@@ -29,7 +30,7 @@ Awesome products that have significant annual revenue (AR) of 7-figures or close
 
 Sources: founder interviews, Indiehackers, podcasts, folks I know personally from conferences etc.
 
-PS. While compiling this list I found many, many companies who used to be self-funded and very profitable, eventually decided to raise a round. SurveyMonkey, GitHub, Braintree, Shopify - all had tens of millions in revenue when eventually took the VC road.
+PS. While compiling this list I found many, many companies who used to be self-funded and very profitable, but eventually decided to raise a round. SurveyMonkey, GitHub, Braintree, Shopify - all had tens of millions in revenue when eventually took the VC road.
 
 ## Contributing
 Feel free to add your company. Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
