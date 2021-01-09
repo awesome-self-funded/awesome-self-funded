@@ -2,7 +2,7 @@
 
 An inspirational list of successful **self-funded AKA "bootstrapped"** software startups that never took any outside funding, but turn a profit instead.
 
-Awesome products that have significant annual revenue (AR) of 7-figures or close and where a paying customer is the only boss they have to please.
+Awesome products that have significant annual revenue (AR) of 7-figures or close, and where a paying customer is the only boss they have to please (not VC or the owning megacorp).
 
 - [Ahrefs](https://ahrefs.com) - SEO software ($50M ARR)
 - [Balsamiq](https://balsamiq.com/) - UI mockup software ($10M ARR)
@@ -12,6 +12,7 @@ Awesome products that have significant annual revenue (AR) of 7-figures or close
 - [Floify](https://floify.com/) - SaaS for mortgage businesses ($7M ARR)
 - [Fomo](https://www.usefomo.com/) - marketing widget showing social proof ($1M ARR)
 - [Grasshopper](http://grasshopper.com/) - virtual VoIP for entrepreneurs ($25M ARR)
+- [Gumroad](https://gumroad.com/) - payment processing for creators ($5M ARR, funded but bought the equity back)
 - [Hubstaff](https://hubstaff.com/) - employee time tracking ($2.5M ARR)
 - [JetBrains](https://www.jetbrains.com/) - Developer tools ($270M ARR)
 - [Jitbit](https://www.jtibit.com/) - Help desk app ($3M ARR)
@@ -30,7 +31,7 @@ Awesome products that have significant annual revenue (AR) of 7-figures or close
 
 Sources: founder interviews, Indiehackers, podcasts, folks I know personally from conferences etc.
 
-PS. While compiling this list I found many, many companies who used to be self-funded and very profitable, but eventually decided to raise a round. SurveyMonkey, GitHub, Braintree, Shopify - all had tens of millions in revenue when eventually took the VC road.
+PS. While compiling this list I found many, many companies who used to be self-funded and very profitable, but eventually decided to raise a round. SurveyMonkey, GitHub, Braintree, Shopify, ConvertKit - all had tens of millions in revenue when eventually taking the VC road.
 
 ## Contributing
 Feel free to add your company. Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
