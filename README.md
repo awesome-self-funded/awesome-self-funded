@@ -1,8 +1,8 @@
-# awesome-self-funded
+# Awesome Self Funded
 
 An inspirational list of successful **self-funded AKA "bootstrapped"** software startups that never took any outside funding, but turn a profit instead.
 
-Awesome products that have significant annual revenue (AR) of 7-figures or close:
+Awesome products that have significant annual revenue (AR) of 7-figures or close and where a paying customer is the only boss they have to please.
 
 - [Ahrefs](https://ahrefs.com) - SEO software ($50M ARR)
 - [Balsamiq](https://balsamiq.com/) - UI mockup software ($10M ARR)
