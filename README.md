@@ -5,7 +5,7 @@ An inspirational list of successful **self-funded AKA "bootstrapped"** software 
 Awesome products that have significant annual revenue (AR) of 7-figures or close, and where a paying customer is the only boss they have to please (not VC or the owning megacorp).
 
 - [Ahrefs](https://ahrefs.com) - SEO software ($50M ARR)
-- [Balsamiq](https://balsamiq.com/) - UI mockup software ($10M ARR)
+- [Balsamiq](https://balsamiq.com/) - UI mockup software ($7.3M ARR)
 - [CoderPad](https://coderpad.io/) - interviewing programmers remotely ($4M ARR)
 - [DNSimple](https://dnsimple.com/) - domain management API ($2M ARR)
 - [EverHour](https://everhour.com/) - employee time tracking ($1.4M ARR)
