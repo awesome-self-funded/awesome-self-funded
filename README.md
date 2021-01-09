@@ -1,6 +1,6 @@
 # awesome-self-funded
 
-This is an inspirational list of successful **self-funded AKA "bootstrapped"** software startups that never took any outside funding, but turn a profit instead.
+An inspirational list of successful **self-funded AKA "bootstrapped"** software startups that never took any outside funding, but turn a profit instead.
 
 Awesome products that have significant annual revenue (AR) of 7-figures & more:
 
