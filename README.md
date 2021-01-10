@@ -2,10 +2,11 @@
 
 An inspirational list of successful **self-funded AKA "bootstrapped"** software startups that never took any outside funding, but turn a profit instead.
 
-Awesome products that have significant annual revenue (AR) of 7-figures or close, and where a paying customer is the only boss they have to please (not VC or the owning megacorp).
+Awesome products that have significant annual revenue of 7-figures or close, and where a paying customer is the only boss they have to please (not VC or the owning megacorp).
 
 - [Ahrefs](https://ahrefs.com) - SEO software ($50M ARR)
 - [Balsamiq](https://balsamiq.com/) - UI mockup software ($7.3M ARR)
+- [Chili Piper](https://www.chilipiper.com/) - sales meeting scheduling automation ($3M ARR)
 - [CoderPad](https://coderpad.io/) - interviewing programmers remotely ($4M ARR)
 - [DNSimple](https://dnsimple.com/) - domain management API ($2M ARR)
 - [EverHour](https://everhour.com/) - employee time tracking ($1.4M ARR)
