@@ -33,7 +33,7 @@ Awesome products that have significant annual revenue of 7-figures or close, and
 
 Sources: founder interviews, Indiehackers, podcasts, folks I know personally from conferences etc.
 
-PS. While compiling this list I found many, many companies who used to be self-funded and very profitable, but eventually decided to raise a round. SurveyMonkey, GitHub, Braintree, Shopify, ConvertKit - all had tens of millions in revenue when eventually taking the VC road.
+PS. While compiling this list I found many, many companies who *used to be* self-funded and very profitable, but eventually decided to raise a round. SurveyMonkey, GitHub, Braintree, Shopify, ConvertKit - all had tens of millions in revenue when eventually taking the VC road. Those companies are not listed here.
 
 ## Contributing
 Feel free to add your company. Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
