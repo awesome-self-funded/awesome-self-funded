@@ -12,6 +12,7 @@ Awesome products that have significant annual revenue of 7-figures or close, and
 - [EverHour](https://everhour.com/) - employee time tracking ($1.4M ARR)
 - [Floify](https://floify.com/) - SaaS for mortgage businesses ($7M ARR)
 - [Fomo](https://www.usefomo.com/) - marketing widget showing social proof ($1M ARR)
+- [Ghost](https://ghost.org/) - CMS/publishing platform for paid membership sites ($2.5M ARR)
 - [GMass](https://www.gmass.co/) - mass emailing from within GMail ($1.6M ARR)
 - [Grasshopper](http://grasshopper.com/) - virtual VoIP for entrepreneurs ($25M ARR)
 - [Gumroad](https://gumroad.com/) - payment processing for creators ($5M ARR, funded but bought the equity back)
