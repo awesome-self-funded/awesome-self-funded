@@ -27,6 +27,7 @@ Awesome products that have significant annual revenue of 7-figures or close, and
 - [MyClean](https://www.myclean.com/) - Uber for cleaning ($9M AR)
 - [Park.io](http://park.io/) - Domain backorders for hackers ($1.5M AR)
 - [Postmark](https://postmarkapp.com/) - transactional email service ($24M ARR)
+- [Scraper API](https://www.scraperapi.com/) - web-scraping proxy with API ($3.3M ARR)
 - [SendPulse](https://sendpulse.com/) - email + messenger marketing ($2.5M ARR)
 - [YouCanBookMe](https://youcanbook.me/) - meeting scheduling ($2M ARR)
 - [Zoho](https://www.zoho.com/) - Cloud/SaaS software suite ($500M ARR)
